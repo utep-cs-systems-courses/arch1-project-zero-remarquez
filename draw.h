@@ -9,5 +9,5 @@ void print_arrow(int startCol,int size);
 extern const unsigned short font_11x16[95][11];
 extern const unsigned char font_5x7[96][5];
 extern const unsigned char font_8x12[95][12];
-extern const unsigned char font_10x12[95][10];
+extern const unsigned char font_10x12[95][12];
 #endif
